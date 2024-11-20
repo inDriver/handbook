@@ -2,7 +2,7 @@
 
 A job profile is a set of expectations for an engineer at a specific grade. We recognize that different roles may involve varying activities depending on specialization, and job profiles should be adjusted accordingly. However, we also expect that engineers at the same grade share common values and meet consistent expectations relevant to their grade.
 
-These common expectations can be found in [engineer track](ic-track) and [manager track](manager-track.md).
+These common expectations can be found in [engineer track](ic-track.md) and [manager track](manager-track.md).
 
 We have several sets of competencies distributed across three engineering tracks: craftsmanship, impact, and behavior. Naturally, the craftsmanship track focuses more on hard skills, while impact and behavior are more related to soft skills (though this is not a strict rule). Our primary goal is to refine our expectations for hard skills to create a job profile tailored to specific professions.
 
