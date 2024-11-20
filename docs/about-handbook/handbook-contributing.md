@@ -3,7 +3,7 @@
 
 ## Contribution to the Handbook by an inDrive User
 
-1. **Clone the repository** to your local machine using the command: `git clone.
+1. **Clone the repository** to your local machine using the command: `git clone`.
 2. **Create a branch**: use a descriptive name for the branch that reflects the nature of your changes.
 3. **Update the documentation**: make your updates following the [documentation guidelines](../../docs/documentation-culture/writing-guideline.md).
 4. **Commit your changes**: include a brief commit message summarizing your updates. Provide a detailed description in the pull request and request reviews. The pull request will be automatically assigned to the code owners, as specified in the [`CODEOWNERS` file](../../CODEOWNERS). If the pull request is not, assigned to a code owner or to a particular reviewer, assign the pull request to a code owner manually.
