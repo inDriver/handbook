@@ -17,5 +17,5 @@ To contribute to this handbook, please refer to our guide: ["Contributing to the
 
 ## License
 
-This project is open source and is licensed under the MIT License. For more details, please see the [LICENSE](LICENSE.md) file.
+This project is open source and is licensed under the MIT License. For more details, please see the [LICENSE](LICENSE) file.
 
