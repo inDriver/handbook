@@ -15,7 +15,7 @@
 
 ## Contribution to the Handbook by a Non-inDrive User
 
-1. **Fork this repository.
+1. **Fork this repository**.
 2. **Clone the forked repository** to your local machine using: `git clone`.
 3. **Create a branch**: use a descriptive name for the branch that reflects the nature of your changes.
 4. **Update the documentation**: make your updates following the [documentation guidelines](../../docs/documentation-culture/writing-guideline.md).
