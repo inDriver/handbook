@@ -19,7 +19,7 @@
 2. **Clone the forked repository** to your local machine using: `git clone`.
 3. **Create a branch**: use a descriptive name for the branch that reflects the nature of your changes.
 4. **Update the documentation**: make your updates following the [documentation guidelines](../../docs/documentation-culture/writing-guideline.md).
-5. **Commit your changes**: include a brief commit message summarizing your updates. Provide a detailed description in the pull request and request reviews. The pull request will be automatically assigned to the code owners, as specified in the [`CODEOWNERS` file](../../CODEOWNERS). If the pull request is not, assigned to a code owner or to a particular reviewer, assign the pull request to a code owner manually.
+5. **Commit your changes**: include a brief commit message summarizing your updates. Provide a detailed description in the pull request and request reviews. The pull request will be automatically assigned to the code owners, as specified in the [`CODEOWNERS` file](../../CODEOWNERS). If the pull request is not assigned to a code owner or to a particular reviewer, assign the pull request to a code owner manually.
 6. **Respond to feedback**: address any feedback from reviewers and make necessary updates.
 7. **Address the Markdown linter errors** if there are any in the logs.
 8. **Monitor the pull request**: track the pull request for any updates. If necessary, close it.
