@@ -71,7 +71,7 @@
 |           VSC           | Visual studio code                                                                                                                                                                                                                                                                                             |
 |           WP            | Woodpecker                                                                                                                                                                                                                                                                                                     |
 |         WYSIWYG         | What-You-See-Is-What-You-Get                                                                                                                                                                                                                                                                                   |
-|  ЦУП (rus) / TSUP (en)  | Центр управления / Control Center                                                                                                                                                                                                                                                                              |
+|           TSUP          | Control Center                                                                                                                                                                                                                                                                                                 |
 
 
 
