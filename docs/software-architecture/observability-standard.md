@@ -100,7 +100,7 @@ All logs should also contain the below fields to increase their effectiveness:
     * **timestamp**: the time at which the event was logged;
     * **client IP**: IP address of the user initiating the request (e.g., X-Forwarded-For header's value);
     * **HTTP method**: HTTP method (e.g., GET, POST, PUT);
-    * **host (authority)**: Protocol, host, and port (e.g., https://indrive.com:443);
+    * **host (authority)**: Protocol, host, and port;
     * **request URL**: full URL of the request;
     * **response status**: server response code;
     * **request size**: amount of data in bytes sent by the client;
@@ -111,7 +111,7 @@ All logs should also contain the below fields to increase their effectiveness:
     * **referer**: the URL from which the request was made;
     * **request ID**: the identifier generated on the load balancer side that allows the application and access log to be matched (e.g. X-Amz-Cf-Id);
     * **request body**: data sent by the client.
-      For GoLang applications, [lib-go/v2/logger](https://github.com/inDriver/lib-go/tree/main/v2/logger) package must be used, which supports additional features, like changing the application log level in runtime, which may be helpful for debugging problems in runtime on production.
+      For GoLang applications, `lib-go/v2/logger` package must be used, which supports additional features, like changing the application log level in runtime, which may be helpful for debugging problems in runtime on production.
 
 Logs must not contain personal data, secrets, tokens, or passwords. Excluding sensitive information from logs is essential for maintaining security and ensuring compliance with data protection regulations.
 
@@ -172,7 +172,7 @@ All services running must adhere to the following general requirements for metri
 
 #### GoLang Requirements
 
-All Go services, developed in the company must use the organization's [lib-go/v2/metrix](https://github.com/inDriver/lib-go/blob/main/v2/metrix/README.md) library for consistent metrics collection.
+All Go services, developed in the company must use the organization's `lib-go/v2/metrix` library for consistent metrics collection.
 
 Following well-known metrics should be used by default where applicable:
 

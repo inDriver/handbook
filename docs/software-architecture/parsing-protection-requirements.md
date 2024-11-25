@@ -22,7 +22,7 @@ This ADR is designed to minimize the risk of leaks in sensitive API methods that
 
 ## Options
 
-Personal Information (PI) — is a kind of information that relates to an individual (customer or contractor) and allows to identify them (see [personal information handling](https://dev.indriver.io/docs/architecture-docs/main/adrs/0005-ARCH-158-personal-information-handling)).
+Personal Information (PI) — is a kind of information that relates to an individual (customer or contractor) and allows to identify them (see [personal information handling](personal-information-handling.md)).
 
 Each of these order feeds uses personal information that can be automatically collected by attackers in large volumes. To protect users' PI, it is necessary to exclude all optional data from the API response from the point of view of business metrics, as well as to apply measures to reduce the motivation for parsing (data filtering, rate-limits, shield_id verification, etc.). Also using statistical data (number of orders, geo-positions of contractors, etc.), the attacker can estimate the approximate volume of the vertical in the region.
 

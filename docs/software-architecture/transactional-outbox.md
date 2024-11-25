@@ -65,7 +65,7 @@ It must be used when fast integration with DWH is needed, and there are no stric
 If the frequency of changes exceeds the Transactional Outbox thresholds but event delivery guarantees cannot be reduced, it is necessary to consult with the Architecture team and possibly redesign the solution.
 
 
-#### [Transactional Outbox](https://github.com/inDriver/outbox))
+#### [Transactional Outbox](https://github.com/inDriver/outbox)
 
 In cases where strict delivery guarantees to the destination point ("at least once") are required and the event flow does not exceed a certain threshold limited by the implementation, the outbox library developed within the company must be used. We have conducted load testing of this implementation and can guarantee normal operation:
 

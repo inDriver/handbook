@@ -218,11 +218,13 @@ Default alignment in tables (without use of colons):
 Note:
 
 >**NOTE**
+>
 > Used to highlight information blocks that you need to pay attention to.
 
 Warning:
 
 >**WARNING**
+>
 > It is used to highlight information related to the prohibition, incorrect information, how not to do.
 
 Caution:
@@ -233,6 +235,7 @@ Caution:
 Success:
 
 >**SUCCESS**
+>
 > Use to beautifully highlight / design any positive information.
 
 

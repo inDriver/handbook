@@ -106,7 +106,7 @@ To track all changes, company uses dedicated systems to store and track changes 
 
 The following steps outline the procedure, which will be described further in details:
 
-* **change request submission**: changes may be initiated by any stakeholder through a standardized change request form in [inDrive - Atlassian JIRA](https://indriver.atlassian.net/jira). Each change ticket (or task) MUST include the following elements as a minimum:
+* **change request submission**: changes may be initiated by any stakeholder through a standardized change request form in Jira. Each change ticket (or task) MUST include the following elements as a minimum:
   * identifier of project where change SHOULD be introduced;
   * reason for the change;
   * description of the change, which may also include documentation of business, security or architecture impact;

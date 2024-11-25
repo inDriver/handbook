@@ -1,4 +1,4 @@
-# inDrive Open Source Handbook
+# inDrive Engineering Handbook
 
 Welcome to the inDrive Open Source Handbook repository, maintained by the inDrive Engineering Team. This repository is designed to serve as a comprehensive guide, outlining best practices and standards upheld by the inDrive team.
 

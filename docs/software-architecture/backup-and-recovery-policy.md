@@ -83,7 +83,7 @@ The policy balances the need to retain critical data for monitoring, security, a
 
 ## Aurora Data Deletion Protection
 
-AWS Aurora databases are critical components of our data infrastructure, storing essential application data that must be protected against accidental or malicious deletion. To achieve this, [Aurora Delete Protection](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_DeleteCluster.html#USER_DeletionProtection) must be enabled for all AWS Aurora databases. This setting prevents the deletion of Aurora database clusters unless delete protection is explicitly disabled, thereby safeguarding our databases against accidental or unintended deletions and prevents downtimes during recovery procedures.
+AWS Aurora databases are critical components of our data infrastructure, storing essential application data that must be protected against accidental or malicious deletion. To achieve this, Aurora Delete Protection must be enabled for all AWS Aurora databases. This setting prevents the deletion of Aurora database clusters unless delete protection is explicitly disabled, thereby safeguarding our databases against accidental or unintended deletions and prevents downtimes during recovery procedures.
 
 Deletion of data from databases should be generally avoided, services must be designed in a way that data is preserved inside databases and either never deleted or Cold Data offloaded only when it is not directly needed by such services.
 

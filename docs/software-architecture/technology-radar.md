@@ -5,6 +5,8 @@
 
 In our dynamic technology landscape, maintaining a curated and standardized set of languages, technologies, and tools across all of inDrive is crucial. To support this effort, the Technology Radar should serve as the single source of truth for guiding technology decisions. This centralized reference will ensure alignment, consistency, and informed choices in adopting and evolving our technology stack.
 
+inDrive tech radar is available via the [link](https://indriver.github.io/architecture-docs/). 
+
 > **NOTE**
 >
 > The Technology Radar is a well-regarded resource that categorizes technologies into `Adopt`, `Trial`, `Assess` and `Hold` categories providing clear guidance on their suitability for organizational use. This radar not only reflects industry best practices but also captures our collective knowledge and experience in the ever-evolving technological ecosystem.

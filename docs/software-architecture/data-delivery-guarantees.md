@@ -44,7 +44,7 @@ This ADR provides a structured approach to align data delivery guarantees with t
 
 **Context**: best-effort delivery is the default as it strikes a balance between reliability and performance. It should be sufficient for services where the risk of missing some individual events is acceptable, and its simplicity reduces the need for additional coding and architectural enhancements. This level is recommended as a starting point for new services and data streams where there are no specific requirements for high-level delivery guarantees.
 
-**Cost**: implementation cost is minimal for this level, just install and use [kafka package](https://github.com/inDriver/lib-go/tree/main/v2/kafka) as main dependency for producing messages. No extra tuning of settings will be required. Under the hood, [franz-go package](https://github.com/twmb/franz-go) is used, which covers low-level aspects of communication with Kafka cluster.
+**Cost**: implementation cost is minimal for this level, just install and use kafka package as main dependency for producing messages. No extra tuning of settings will be required. Under the hood, [franz-go package](https://github.com/twmb/franz-go) is used, which covers low-level aspects of communication with Kafka cluster.
 
 
 ## At-Least-Once Delivery Guarantee

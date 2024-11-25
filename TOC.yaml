@@ -230,7 +230,7 @@
         - name: Swagger
           href: /docs/documentation-culture/swagger.md
         - name: Quality Metrics
-          href: /docs/documentation-culture/quality-metrics.md
+          href: /docs/documentation-culture/documentation-quality-metrics.md
         - name: Documentation References
           href: /docs/documentation-culture/references.md
     - name: Documentation Events

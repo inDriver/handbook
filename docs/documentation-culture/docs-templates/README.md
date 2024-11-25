@@ -1,4 +1,3 @@
-```markdown
 # {Service Name}
 
 ![Link to the Jira project]()
