@@ -59,9 +59,9 @@ This color-coded system allows a quick understanding of team performance across 
 
 **Current Quarter OKR progress**: shows the current quarter OKR progress of a team. This helps track progress toward strategic goals, identify areas needing attention.
 
-**Target value**: >70.
+**Target value**: >75.
 
-**Color coding**: green >70, yellow 40-69, red <40.
+**Color coding**: green >75, yellow 50-75, red <50.
 
 **Scope Drop**: shows what proportion of the initially planned scope was excluded from the sprint. This helps to understand how accurately the team plans its tasks and manages the scope of work during execution.
 
