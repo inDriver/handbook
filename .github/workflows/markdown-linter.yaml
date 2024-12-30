@@ -1,0 +1,8 @@
+on:
+  pull_request:
+
+jobs:
+  markdown-linter:
+    secrets: inherit
+    uses: InDriver/base-workflows/.github/workflows/markdown_linter.yaml@main
+    #uses: InDriver/base-workflows/.github/workflows/markdown_linter.yaml@DEVREL-1446-url-checker
