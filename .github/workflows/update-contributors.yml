@@ -1,0 +1,29 @@
+name: Update Contributors File
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-contributors:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch contributors from GitHub API
+        run: |
+          curl -s https://api.github.com/repos/${{ github.repository }}/contributors \
+          | jq -r '.[] | "- [@\(.login)](https://github.com/\(.login))"' \
+          > CONTRIBUTORS.md
+
+      - name: Commit and push CONTRIBUTORS file
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "GitHub Actions"
+          author_email: "github-actions@github.com"
+          message: "Update CONTRIBUTORS file"
