@@ -50,9 +50,9 @@ To contribute to this handbook, please refer to our guide: ["Contributing to the
                 * [Director](./docs/people/crafters/director.md)
 
 
-## Inspire Framework
+## inSpire Framework
 
-* [Inspire Framework](./docs/strategy-and-management/inspire-overview.md)
+* [inSpire Framework](./docs/strategy-and-management/inspire-overview.md)
     * [Quarterly Planning](./docs/strategy-and-management/quarterly-planning.md)
     * Development Cycle Management
         * [Unified Discovery Process](./docs/strategy-and-management/product-process.md)
