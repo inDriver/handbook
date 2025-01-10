@@ -115,7 +115,7 @@ To contribute to this handbook, please refer to our guide: ["Contributing to the
     * [Universal Entry Identifier](./docs/software-architecture/universal-entity-identifier.md)
     * [Geo Distribution Principle](./docs/software-architecture/geo-distribution-principle.md)
     * [Transactional Outbox](./docs/software-architecture/transactional-outbox.md)
-    * [Cold / Warm Storage for Services](./docs/software-architecture/cold-warn-storage.md)
+    * [Cold / Warm Storage for Services](./docs/software-architecture/cold-warm-storage.md)
 
 
 ## Software Development
