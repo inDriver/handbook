@@ -162,7 +162,13 @@ To contribute to this handbook, please refer to our guide: ["Contributing to the
 * [Tech and Business Glossary](./docs/glossary/tech-business-glossary.md)
 
 ## Abbreviations and Acronyms
+
 * [Abbreviations and Acronyms](./docs/abbreviations-and-acronyms.md)
+
+
+## Contributors
+
+* [Contributors](./CONTRIBUTORS.md).
 
 
 ## License
