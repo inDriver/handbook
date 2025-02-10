@@ -40,7 +40,7 @@ All interested employees from inDriver are welcome to attend committee meetings.
 
 ## Scope of Responsibility
 
-New projects, significant technical decisions, and integration interactions must go through a review process with the committee. The review is conducted by the team's tech lead and / or the project's lead developer.
+New projects, significant technical decisions, and integration interactions must go through a review process with the committee.
 
 The review is conducted by the team's tech lead and/or the project's lead developer.
 

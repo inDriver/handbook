@@ -287,7 +287,7 @@ Types of `.puml` diagrams:
 
 > **CAUTION**
 >
-> Use gifs, images ot screenshots where it is impossible to create documentation without them. Applying them it is always expensive for the following documentation support, so please think twice.
+> Use gifs, images or screenshots where it is impossible to create documentation without them. Applying them it is always expensive for the following documentation support, so please think twice.
 
 * for every image provide alt text (the context before an image) that summarize the intent of an image;
 * each image should have a figure caption — a sentence under an image without a period at the end of describing sentence;

@@ -14,5 +14,3 @@ A `CONTRIBUTING.md` file provides potential contributors with a short guide of h
 **Submitting changes**: the crucial part of the document describing of how to submit pull requests to a repo. Also include here response that contributors will get from the team and how they deal with the response and feedback. Also include here the guidelines and tips that teach contributors how to submit bugs.
 
 **Style guides and coding conventions**: include git commit messages guide, any code guidelines that are used for contribution to this repo.
-
-Here is a [`CONTRIBUTING.md` template](docs-templates/CONTRIBUTING.md).
