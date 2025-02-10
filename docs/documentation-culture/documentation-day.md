@@ -28,7 +28,7 @@ Preparation for Documentation Day should begin at least one month before the eve
 * after the introductory meeting, book a time slot for the event and set up a Google Meet session;
 * share informational posts on documentation writing that will be useful during the event;
 * prepare an image outlining the event workflow for participants, which will be shared via posts in Slack channels.
-* announce each update about the event in the following channels: `#dev` and `#documentary`. The final announcements should be made one week and one day before the event;
+* announce each update about the event in the following channels: `#dev`, `#documentary-day` and `#documentary`. The final announcements should be made one week and one day before the event;
 * arrange catering in advance for those attending the event in person.
 * reviewers and the event organizer should support participants via Google Meet and in the `#documentation-day` channel;
 * two days after the event, post the results and recognize the best contributors (if applicable), and distribute a feedback survey;
