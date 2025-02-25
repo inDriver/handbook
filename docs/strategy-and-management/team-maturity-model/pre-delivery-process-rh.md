@@ -7,8 +7,6 @@ This instruction is written to understand whether everything is in order with Pr
 
 Pre-Delivery — the process of the formation of product and tech decision, i.e. the preparation of the task to meet DoR. If you break the process into large pieces, it consists of several steps.
 
-![](../../image/pre-delivery-post.png)
-
 
 ## Step 0
 

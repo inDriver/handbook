@@ -2,14 +2,14 @@
 
 The product process starts in the Unified Discovery Process (UPD).
 
-![](../image/product-process.png)
+![](../../../../image/product-process.png)
 
 
 ## Process Steps
 
 A UPD has the following status model:
 
-![](../image/upd-status-model.png)
+![](../../../../image/upd-status-model.png)
 
 
 ### New
