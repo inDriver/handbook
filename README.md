@@ -130,6 +130,7 @@ To contribute to this handbook, please refer to our guide: ["Contributing to the
         * [Code Review](./docs/software-development/dev/guidelines/backend/code-review.md)
         * [REST API Guideline](./docs/software-development/dev/guidelines/backend/api-guideline.md)
         * [Database Guideline](./docs/software-development/dev/guidelines/backend/db-guideline.md)
+        * [Database Migrations Guideline](./docs/software-development/dev/guidelines/backend/db-migrations-guideline.md)
         * [Best Practices](./docs/software-development/dev/guidelines/backend/best-practices.md)
 
 
