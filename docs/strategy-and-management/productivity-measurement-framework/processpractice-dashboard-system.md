@@ -13,7 +13,7 @@ The single analytical system serves as:
 * a repository of metrics from all organizational levels;
 * a resource with a set of dashboards for in-depth analysis of specific metrics (e.g., TTM, lead time, quality metrics, TMM, etc.).
 
-![](../../image/5-tiers.png)
+![](../../image/sas_overview.png)
 
 More detailed information is presented in the table:
 
