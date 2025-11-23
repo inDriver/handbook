@@ -78,7 +78,6 @@ To contribute to this handbook, please refer to our guide: ["Contributing to the
                 * [Processes](./docs/strategy-and-management/team-maturity-model/process.md)
                 * [Technology](./docs/strategy-and-management/team-maturity-model/tech.md)
     * [Program Management](./docs/strategy-and-management/program-management.md)
-        * [Project Stages](./docs/strategy-and-management/program-and-project-stages.md)
     * Team Meetings and Reviews
         * [Discovery Sync](./docs/strategy-and-management/discovery-sync.md)
         * [Sprint Meetings](./docs/strategy-and-management/product-team-meetings.md)
